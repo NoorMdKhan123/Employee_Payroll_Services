@@ -12,6 +12,7 @@ insert into employee_services (name, salary, start) values ('rekha', 20000, '202
 ('anu', 10000, '2021-10-07'),
 ('guari', 19000, '2021-10-05');
 
+select * from employee_services;
 
 
 
